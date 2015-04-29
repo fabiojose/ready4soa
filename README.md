@@ -5,7 +5,7 @@ Study Roadmap, laboratories, guides and examples to get ready for Service Orient
 
 #### Study Roadmap
 1. XML
-2. XSD
+2. XML Schema - XSD
 3. WSDL
 4. SOAP
 5. XSL
@@ -13,10 +13,13 @@ Study Roadmap, laboratories, guides and examples to get ready for Service Orient
 #### XML Laboratories
 1. Country
 
-## SOA Maturity Level 2: Architected Services 
+#### XML Schema Laboratories
+1. Country
 
-## SOA Maturity Level 3: Business and Collaborative Services  
+### SOA Maturity Level 2: Architected Services 
 
-## SOA Maturity Level 4: Measured Business Services
+### SOA Maturity Level 3: Business and Collaborative Services  
 
-## SOA Maturity Level 5: Optimized Business Services
+### SOA Maturity Level 4: Measured Business Services
+
+### SOA Maturity Level 5: Optimized Business Services
