@@ -9,6 +9,7 @@ Study Roadmap, laboratories, references, guides and examples to get ready for Se
 3. WSDL
 4. SOAP
 5. XSL
+6. Java Web Service - JWS
 
 #### XML Laboratories
 1. Country
