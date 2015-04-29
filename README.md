@@ -3,7 +3,9 @@ Study Roadmap, laboratories, references, guides and examples to get ready for Se
 
 ### SOA Maturity Level 1: Initial Services
 
-#### Study Roadmap
+#### Roadmap A
+
+##### To Study
 1. XML
 2. XML Schema - XSD
 3. WSDL
@@ -11,11 +13,18 @@ Study Roadmap, laboratories, references, guides and examples to get ready for Se
 5. XSL
 6. Java Web Service - JWS
 
-#### XML Laboratories
+##### XML Laboratories
 1. Country
 
-#### XML Schema Laboratories
+##### XML Schema Laboratories
 1. Country
+
+#### Roadmap B
+
+##### To Study
+1. Enterprise Service Bus - ESB
+
+##### ESB Laboratories
 
 ### SOA Maturity Level 2: Architected Services 
 
