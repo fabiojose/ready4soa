@@ -1,5 +1,5 @@
 # ready4soa
-Study Roadmap, laboratories, references, guides and examples to get ready for Service Oriented Architecture
+Study Roadmap, laboratories, references, guides, tools and examples to get ready for Service Oriented Architecture
 
 ### SOA Maturity Level 1: Initial Services
 
