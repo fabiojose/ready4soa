@@ -34,5 +34,21 @@ Study Roadmap, laboratories, references, guides, tools and examples to get ready
 
 ### SOA Maturity Level 5: Optimized Business Services
 
-#### Terminology
+#### Means
 
++ WS
+
+  > Web Service
+
++ WS-*
+
+  > Web Service extensions
+
++ WS-I
+
+  > [Web Services Interoperability] [wsi]
+[wsi]: http://www.ws-i.org/  
++ XML
+
+  > [eXtended Markup Language] [xml]
+[xml]: http://www.w3schools.com/xml/default.asp
