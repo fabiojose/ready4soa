@@ -38,11 +38,12 @@ Study Roadmap, laboratories, references, guides, tools and examples to get ready
 
 + WS
 
-  > Web Service
+  > [Web Service] [ws]
+[ws]: http://www.w3schools.com/webservices/
 
 + WS-*
 
-  > Web Service extensions
+  > Web Service specifications
 
 + WS-I
 
