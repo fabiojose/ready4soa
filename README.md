@@ -92,6 +92,14 @@ Study Roadmap, laboratories, references, guides, tools and examples to get ready
 
 + UDDI
 
++ BPM
+
++ BPMN
+
++ BPEL
+
++ BAM
+
 + Request/Reply
 
 + Request/Response
