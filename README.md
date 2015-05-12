@@ -64,6 +64,10 @@ Study Roadmap, laboratories, references, guides, tools and examples to get ready
 
 + WS-Security
 
++ WS-Trust
+
++ WS-Federation
+
 + XML
 
   > [eXtended Markup Language] [xml]
