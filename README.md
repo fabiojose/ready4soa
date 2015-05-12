@@ -86,6 +86,16 @@ Study Roadmap, laboratories, references, guides, tools and examples to get ready
   > [XML Schema Definition] [xsd]
 [xsd]: http://www.w3schools.com/schema/default.asp
 
++ XPath
+
+  > [XML Path Language] [xpath]
+  >
+  > > [Learn] [xpath_learn]
+[xpath]: http://www.w3.org/TR/xpath20/
+[xpath_learn]: http://www.w3schools.com/xpath/
+
++ XQuery
+
 + WSDL
 
 + SOAP
