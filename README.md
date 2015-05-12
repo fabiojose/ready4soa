@@ -36,6 +36,10 @@ Study Roadmap, laboratories, references, guides, tools and examples to get ready
 
 #### Means
 
++ SOA
+
+  > Service Oriented Architecture
+
 + WS
 
   > [Web Service] [ws]
@@ -93,4 +97,6 @@ Study Roadmap, laboratories, references, guides, tools and examples to get ready
 + Request/Response
 
 + One-Way
+
++ Governance
 
