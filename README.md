@@ -50,6 +50,15 @@ Study Roadmap, laboratories, references, guides, tools and examples to get ready
   > [Web Services Interoperability] [wsi]
 [wsi]: http://www.ws-i.org/
 
++ WS-BPEL
+
+  > [Web Services Business Process Execution Language] [wsbpel]
+[wsbpel]: https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=wsbpel
+
++ WS-Addressing
+
+  > Web Services Addressing
+
 + XML
 
   > [eXtended Markup Language] [xml]
