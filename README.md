@@ -99,6 +99,12 @@ Study Roadmap, laboratories, references, guides, tools and examples to get ready
 
 + XQuery
 
+  > [XML Query Language] [xquery]
+  >
+  > > [Learn] [xquery_learn]
+[xquery]: http://www.w3.org/TR/xquery/
+[xquery_learn]: http://www.w3schools.com/xquery/
+
 + XSL
 
   > [eXtensible Stylesheet Language] [xsl]
