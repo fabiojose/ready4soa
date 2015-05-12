@@ -102,12 +102,15 @@ Study Roadmap, laboratories, references, guides, tools and examples to get ready
 + XSL
 
   > [eXtensible Stylesheet Language] [xsl]
-  >
-  > > [Learn] [xsl_learn]
 [xsl]: http://www.w3.org/Style/XSL/
-[xsl_learn]: http://www.w3schools.com/xsl/
 
 + XSLT 
+
+  > XSL Transformations
+  >
+  > > [Learn] [xslt_learn]
+[xslt]: http://www.w3.org/TR/xslt
+[xslt_learn]: http://www.w3schools.com/xsl/
 
 + WSDL
 
