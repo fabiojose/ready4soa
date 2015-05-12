@@ -69,6 +69,10 @@ Study Roadmap, laboratories, references, guides, tools and examples to get ready
   > [eXtended Markup Language] [xml]
 [xml]: http://www.w3schools.com/xml/default.asp
 
++ XML Signature
+
++ XML Encryption
+
 + XSD
 
   > [XML Schema Definition] [xsd]
