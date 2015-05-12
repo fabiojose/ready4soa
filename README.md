@@ -99,6 +99,16 @@ Study Roadmap, laboratories, references, guides, tools and examples to get ready
 
 + XQuery
 
++ XSL
+
+  > [eXtensible Stylesheet Language] [xsl]
+  >
+  > > [Learn] [xsl_learn]
+[xsl]: http://www.w3.org/Style/XSL/
+[xsl_learn]: http://www.w3schools.com/xsl/
+
++ XSLT 
+
 + WSDL
 
 + SOAP
