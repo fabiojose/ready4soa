@@ -75,7 +75,10 @@ Study Roadmap, laboratories, references, guides, tools and examples to get ready
 + XML
 
   > [eXtended Markup Language] [xml]
-[xml]: http://www.w3schools.com/xml/default.asp
+  > 
+  > > [Learn] [xml_learn]
+[xml]: http://www.w3.org/XML/
+[xml_learn]: http://www.w3schools.com/xml/
 
 + XML Signature
 
