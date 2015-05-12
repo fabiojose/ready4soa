@@ -83,8 +83,11 @@ Study Roadmap, laboratories, references, guides, tools and examples to get ready
 
 + XSD
 
-  > [XML Schema Definition] [xsd]
-[xsd]: http://www.w3schools.com/schema/default.asp
+  > [XML Schema Definition Language] [xsd]
+  >
+  > > [Learn] [xsd_learn]
+[xsd]: http://www.w3.org/TR/xmlschema11-1/
+[xsd_learn]: http://www.w3schools.com/schema/
 
 + XPath
 
