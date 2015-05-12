@@ -57,7 +57,12 @@ Study Roadmap, laboratories, references, guides, tools and examples to get ready
 
 + WS-Addressing
 
-  > Web Services Addressing
+  > [Web Services Addressing] [wsaddressing]
+[wsaddressing]: http://www.w3.org/Submission/ws-addressing/
+
++ WS-Policy
+
++ WS-Security
 
 + XML
 
