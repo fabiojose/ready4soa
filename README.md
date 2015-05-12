@@ -47,8 +47,14 @@ Study Roadmap, laboratories, references, guides, tools and examples to get ready
 + WS-I
 
   > [Web Services Interoperability] [wsi]
-[wsi]: http://www.ws-i.org/  
+[wsi]: http://www.ws-i.org/
+
 + XML
 
   > [eXtended Markup Language] [xml]
 [xml]: http://www.w3schools.com/xml/default.asp
+
++ XSD
+
+  > [XML Schema Definition] [xsd]
+[xsd]: http://www.w3schools.com/schema/default.asp
