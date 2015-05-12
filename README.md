@@ -81,3 +81,8 @@ Study Roadmap, laboratories, references, guides, tools and examples to get ready
 
   > [XML Schema Definition] [xsd]
 [xsd]: http://www.w3schools.com/schema/default.asp
+
++ Request/Reply or Request/Response
+
++ One-Way
+
