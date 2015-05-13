@@ -43,7 +43,10 @@ Study Roadmap, laboratories, references, guides, tools and examples to get ready
 + WS
 
   > [Web Service] [ws]
-[ws]: http://www.w3schools.com/webservices/
+  >
+  > > [Learn] [ws_learn]
+[ws]: http://www.w3.org/TR/ws-arch/
+[ws_learn]: http://www.w3schools.com/webservices/
 
 + WS-*
 
