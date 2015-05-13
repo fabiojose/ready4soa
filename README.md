@@ -70,8 +70,10 @@ Stands for [Web Services Interoperability Organization] [wsi]
 
 ## WS-BPEL
 
-  > [Web Services Business Process Execution Language] [wsbpel]
-[wsbpel]: https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=wsbpel
+Stands for [Web Services Business Process Execution Language] [wsbpel]
+
+> WS-BPEL provides a language for the specification of Executable and Abstract business processes. (...)  that should facilitate the expansion of automated process integration (...).
+[wsbpel]: http://docs.oasis-open.org/wsbpel/2.0/OS/wsbpel-v2.0-OS.html
 
 ## WS-Addressing
 
@@ -85,6 +87,10 @@ Stands for [Web Services Interoperability Organization] [wsi]
 ## WS-Trust
 
 ## WS-Federation
+
+## WS-Coordenation
+
+## WS-Transaction
 
 ## XML
 
