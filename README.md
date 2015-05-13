@@ -64,7 +64,9 @@ Stands for [Web Services Interoperability Organization] [wsi]
 
 > The Web Services Interoperability Organization (WS-I) is an open industry organization chartered to establish Best Practices for Web services interoperability, for selected groups of Web services standards, across platforms, operating systems and programming languages.
 
+[More] [wsi_more]
 [wsi]: http://www.ws-i.org
+[wsi_more]: http://ws-i.org/Profiles/BasicProfile-2.0-2010-11-09.html
 
 ## WS-BPEL
 
