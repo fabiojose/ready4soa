@@ -100,6 +100,8 @@ Stands for [Web Services Policy] [wspolicy]
 
 ## WS-Security
 
+## WSS
+
 ## WS-Trust
 
 ## WS-Federation
