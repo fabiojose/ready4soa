@@ -118,7 +118,7 @@ Stands for [Web Services Security] [wssecurity]
 
 ## WSS
 
-[WS-Security] (wssecurity_anchor)
+[WS-Security] (#wssecurity_anchor)
 
 ## WS-Trust
 
