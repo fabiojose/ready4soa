@@ -90,6 +90,12 @@ Stands for [Web Services Addressing] [wsaddressing]
 
 ## WS-Policy
 
+Stands for [Web Services Policy] [wspolicy]
+
+> (...) defines a base set of constructs that can be used and extended by other Web services specifications to describe a broad range of service requirements and capabilities.
+
+[wspolicy]: http://www.w3.org/TR/ws-policy/
+
 ## WS-Security
 
 ## WS-Trust
