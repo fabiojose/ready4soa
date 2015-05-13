@@ -34,13 +34,13 @@ Study Roadmap, laboratories, references, guides, tools and examples to get ready
 
 ### SOA Maturity Level 5: Optimized Business Services
 
-#### Means
+# Means
 
-+ SOA
+## SOA
 
   > Service Oriented Architecture
 
-+ WS 
+## WS 
 
   Stands for [Web Service] [ws]
 
