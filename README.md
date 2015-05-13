@@ -115,8 +115,11 @@ Stands for [Extensible Markup Language] [xml]
 > Extensible Markup Language (XML) is a simple, very flexible text format derived from SGML (ISO 8879).
 
 [Learn] [xml_learn]
+
+[More] [xml_more]
 [xml]: http://www.w3.org/XML/
 [xml_learn]: http://www.w3schools.com/xml/
+[xml_more]: http://www.w3.org/standards/xml/core.html
 
 ## XML Signature
 
