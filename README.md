@@ -72,8 +72,11 @@ Stands for [Web Services Interoperability Organization] [wsi]
 
 Stands for [Web Services Business Process Execution Language] [wsbpel]
 
-> WS-BPEL provides a language for the specification of Executable and Abstract business processes. (...)  that should facilitate the expansion of automated process integration (...).
+> WS-BPEL provides a language for the specification of Executable and Abstract business processes. (...)  that should facilitate the expansion of automated process integration (...)
+
+[More] [wsbpel_more]
 [wsbpel]: http://docs.oasis-open.org/wsbpel/2.0/OS/wsbpel-v2.0-OS.html
+[wsbpel_more]: http://xml.coverpages.org/bpel4ws.html
 
 ## WS-Addressing
 
