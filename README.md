@@ -80,8 +80,13 @@ Stands for [Web Services Business Process Execution Language] [wsbpel]
 
 ## WS-Addressing
 
-  > [Web Services Addressing] [wsaddressing]
+Stands for [Web Services Addressing] [wsaddressing]
+
+> WS-Addressing provides transport-neutral mechanisms to address Web services and messages.(...)
+
+[More] [wsaddressing_more]
 [wsaddressing]: http://www.w3.org/Submission/ws-addressing/
+[wsaddressing_more]: http://xml.coverpages.org/ws-Addressing.html
 
 ## WS-Policy
 
