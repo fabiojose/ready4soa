@@ -58,6 +58,14 @@ Stands for [Web Service] [ws]
 
 Stands for Web Service specifications
 
+## WS-Gloss
+
+Stands for [Web Services Glossary] [wsgloss]
+
+> (...) a glossary of Web services terms defined and used in the Web Services Architecture (...) in order to refer to a common coherent framework.
+
+[wsgloss]: http://www.w3.org/TR/ws-gloss/
+
 ## WS-I
 
 Stands for [Web Services Interoperability Organization] [wsi]
