@@ -97,7 +97,7 @@ Stands for [Web Services Business Process Execution Language] [wsbpel]
 
 ## XML
 
-Stands for [eXtended Markup Language] [xml]
+Stands for [Extensible Markup Language] [xml]
 
 > Extensible Markup Language (XML) is a simple, very flexible text format derived from SGML (ISO 8879).
 
@@ -112,8 +112,10 @@ Stands for [eXtended Markup Language] [xml]
 ## XSD
 
 Stands for [XML Schema Definition Language] [xsd]
->
-> > [Learn] [xsd_learn]
+
+> (...) offers facilities for describing the structure and constraining the contents of XML documents (...)
+
+[Learn] [xsd_learn]
 [xsd]: http://www.w3.org/TR/xmlschema11-1/
 [xsd_learn]: http://www.w3schools.com/schema/
 
