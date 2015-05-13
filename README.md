@@ -96,6 +96,8 @@ Stands for [Web Services Policy] [wspolicy]
 
 [wspolicy]: http://www.w3.org/TR/ws-policy/
 
+## WS-SecurityPolicy
+
 ## WS-Security
 
 ## WS-Trust
