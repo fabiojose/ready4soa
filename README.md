@@ -107,6 +107,12 @@ Stands for [Extensible Markup Language] [xml]
 
 ## XML Signature
 
+Stands for [XML Signature Syntax and Processing] [xml_signature]
+
+> (...) XML Signatures provide integrity, message authentication, and/or signer authentication services for data of any type, whether located within the XML that includes the signature or elsewhere.
+
+[xml_signature]: http://www.w3.org/TR/xmldsig-core/
+
 ## XML Encryption
 
 ## XSD
