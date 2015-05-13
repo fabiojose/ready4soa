@@ -54,101 +54,101 @@ Study Roadmap, laboratories, references, guides, tools and examples to get ready
 [ws]: http://www.w3.org/TR/ws-arch/
 [ws_learn]: http://www.w3schools.com/webservices/
 
-+ WS-*
+## WS-*
 
   > Web Service specifications
 
-+ WS-I
+## WS-I
 
   > [Web Services Interoperability] [wsi]
 [wsi]: http://www.ws-i.org/
 
-+ WS-BPEL
+## WS-BPEL
 
   > [Web Services Business Process Execution Language] [wsbpel]
 [wsbpel]: https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=wsbpel
 
-+ WS-Addressing
+## WS-Addressing
 
   > [Web Services Addressing] [wsaddressing]
 [wsaddressing]: http://www.w3.org/Submission/ws-addressing/
 
-+ WS-Policy
+## WS-Policy
 
-+ WS-Security
+## WS-Security
 
-+ WS-Trust
+## WS-Trust
 
-+ WS-Federation
+## WS-Federation
 
-+ XML
+## XML
 
-  > [eXtended Markup Language] [xml]
-  > 
-  > > [Learn] [xml_learn]
+Stands for [eXtended Markup Language] [xml]
+> 
+> > [Learn] [xml_learn]
 [xml]: http://www.w3.org/XML/
 [xml_learn]: http://www.w3schools.com/xml/
 
-+ XML Signature
+## XML Signature
 
-+ XML Encryption
+## XML Encryption
 
-+ XSD
+## XSD
 
-  > [XML Schema Definition Language] [xsd]
-  >
-  > > [Learn] [xsd_learn]
+Stands for [XML Schema Definition Language] [xsd]
+>
+> > [Learn] [xsd_learn]
 [xsd]: http://www.w3.org/TR/xmlschema11-1/
 [xsd_learn]: http://www.w3schools.com/schema/
 
-+ XPath
+## XPath
 
-  > [XML Path Language] [xpath]
-  >
-  > > [Learn] [xpath_learn]
+Stands for [XML Path Language] [xpath]
+>
+> > [Learn] [xpath_learn]
 [xpath]: http://www.w3.org/TR/xpath20/
 [xpath_learn]: http://www.w3schools.com/xpath/
 
-+ XQuery
+## XQuery
 
-  > [XML Query Language] [xquery]
-  >
-  > > [Learn] [xquery_learn]
+Stands for [XML Query Language] [xquery]
+>
+> > [Learn] [xquery_learn]
 [xquery]: http://www.w3.org/TR/xquery/
 [xquery_learn]: http://www.w3schools.com/xquery/
 
-+ XSL
+## XSL
 
-  > [eXtensible Stylesheet Language] [xsl]
+Stands for [eXtensible Stylesheet Language] [xsl]
 [xsl]: http://www.w3.org/Style/XSL/
 
-+ XSLT 
+## XSLT 
 
-  > [XSL Transformations] [xslt]
-  >
-  > > [Learn] [xslt_learn]
+Stands for [XSL Transformations] [xslt]
+>
+> > [Learn] [xslt_learn]
 [xslt]: http://www.w3.org/TR/xslt
 [xslt_learn]: http://www.w3schools.com/xsl/
 
-+ WSDL
+## WSDL
 
-+ SOAP
+## SOAP
 
-+ UDDI
+## UDDI
 
-+ BPM
+## BPM
 
-+ BPMN
+## BPMN
 
-+ BPEL
+## BPEL
 
-+ BAM
+## BAM
 
-+ Request/Reply
+## Request/Reply
 
-+ Request/Response
+## Request/Response
 
-+ One-Way
+## One-Way
 
-+ Governance
+## Governance
 
