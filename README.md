@@ -106,7 +106,7 @@ Stands for [Web Services Policy] [wspolicy]
 
 ## WS-SecurityPolicy
 
-## WS-Security
+## WS-Security <a name="wssecurity_anchor"/>
 
 Stands for [Web Services Security] [wssecurity]
 
@@ -117,6 +117,8 @@ Stands for [Web Services Security] [wssecurity]
 [wssecurity_more]: https://www.oasis-open.org/committees/wss
 
 ## WSS
+
+[WS-Security] (wssecurity_anchor)
 
 ## WS-Trust
 
