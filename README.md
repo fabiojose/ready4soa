@@ -98,8 +98,10 @@ Stands for [Web Services Business Process Execution Language] [wsbpel]
 ## XML
 
 Stands for [eXtended Markup Language] [xml]
-> 
-> > [Learn] [xml_learn]
+
+> Extensible Markup Language (XML) is a simple, very flexible text format derived from SGML (ISO 8879).
+
+[Learn] [xml_learn]
 [xml]: http://www.w3.org/XML/
 [xml_learn]: http://www.w3schools.com/xml/
 
@@ -157,6 +159,14 @@ Stands for [XSL Transformations] [xslt]
 ## BPEL
 
 ## BAM
+
+## REST
+
+## RESTful
+
+## JSON
+
+## JSONP
 
 ## Request/Reply
 
