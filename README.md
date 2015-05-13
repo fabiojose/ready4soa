@@ -133,8 +133,10 @@ data model provides a tree representation of XML documents (...)
 ## XQuery
 
 Stands for [XML Query Language] [xquery]
->
-> > [Learn] [xquery_learn]
+
+> (...) uses the structure of XML intelligently can express queries across all these kinds of data (...) designed to be broadly applicable across many types of XML data sources.
+
+[Learn] [xquery_learn]
 [xquery]: http://www.w3.org/TR/xquery/
 [xquery_learn]: http://www.w3schools.com/xquery/
 
