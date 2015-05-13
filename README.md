@@ -108,6 +108,14 @@ Stands for [Web Services Policy] [wspolicy]
 
 ## WS-Security
 
+Stands for [Web Services Security] [wssecurity]
+
+> (...) standard set of SOAP [SOAP11, SOAP12] extensions that can be used when building secure Web services to implement message content integrity and confidentiality.
+
+[More] [wssecurity_more]
+[wssecurity]: https://www.oasis-open.org/committees/download.php/16790/wss-v1.1-spec-os-SOAPMessageSecurity.pdf
+[wssecurity_more]: https://www.oasis-open.org/committees/wss
+
 ## WSS
 
 ## WS-Trust
