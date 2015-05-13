@@ -34,9 +34,9 @@ Study Roadmap, laboratories, references, guides, tools and examples to get ready
 
 ### SOA Maturity Level 5: Optimized Business Services
 
-# Means
+# Meanings
 
-### A collection of means at *soaland*
+### A collection of meanings at *soaland*
 
 * * * 
 
