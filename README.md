@@ -197,6 +197,14 @@ Stands for [XSL Transformations] [xslt]
 
 ## JSONP
 
+## Asynchronous transport
+
+## Synchronous transport
+
+## Acknowledgement
+
+## Reliable
+
 ## Request/Reply
 
 ## Request/Response
