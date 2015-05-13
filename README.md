@@ -152,7 +152,7 @@ Stands for [Extensible Stylesheet Language] [xsl]
 
 Stands for [XSL Transformations] [xslt]
 
-> The term stylesheet reflects the fact that one of the important roles of XSLT is to add styling information to an XML source document, by transforming it into a document consisting of XSL formatting objects (see [Extensible Stylesheet Language (XSL)]), or into another presentation-oriented format such as HTML, XHTML, or SVG. However, XSLT is used for a wide range of transformation tasks, not exclusively for formatting and presentation applications.
+> The term stylesheet reflects the fact that one of the important roles of XSLT is to add styling information to an XML source document, by transforming it into a document consisting of XSL formatting objects (...), or into another presentation-oriented format such as HTML, XHTML, or SVG. However, XSLT is used for a wide range of transformation tasks, not exclusively for formatting and presentation applications. (...)
 
 [Learn] [xslt_learn]
 [xslt]: http://www.w3.org/TR/xslt20/
