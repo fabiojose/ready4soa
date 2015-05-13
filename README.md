@@ -91,7 +91,7 @@ Stands for [Web Services Business Process Execution Language] [wsbpel]
 
 ## WS-Federation
 
-## WS-Coordenation
+## WS-Coordination
 
 ## WS-Transaction
 
