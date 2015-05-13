@@ -115,6 +115,12 @@ Stands for [XML Signature Syntax and Processing] [xml_signature]
 
 ## XML Encryption
 
+Stands for [XML Encryption Syntax and Processing] [xml_encryption]
+
+> (...) a process for encrypting data and representing the result in XML. The data may be arbitrary data (including an XML document), an XML element, or XML element content. The result of encrypting data is an XML Encryption element which contains or references the cipher data.
+
+[xml_encryption]: http://www.w3.org/TR/xmlenc-core/
+
 ## XSD
 
 Stands for [XML Schema Definition Language] [xsd]
