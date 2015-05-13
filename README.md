@@ -46,11 +46,11 @@ Study Roadmap, laboratories, references, guides, tools and examples to get ready
 
 ## WS 
 
-  Stands for [Web Service] [ws]
+Stands for [Web Service] [ws]
 
-  > Web services provide a standard means of interoperating between different software applications, running on a variety of platforms and/or frameworks
-  > 
-  > > [Learn] [ws_learn]
+> Web services provide a standard means of interoperating between different software applications, running on a variety of platforms and/or frameworks
+
+[Learn] [ws_learn]
 [ws]: http://www.w3.org/TR/ws-arch/
 [ws_learn]: http://www.w3schools.com/webservices/
 
