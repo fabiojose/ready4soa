@@ -132,6 +132,12 @@ Stands for [Web Services Trust] [wstrust]
 
 ## WS-Federation
 
+Stands for [Web Services Federation Language] [wsfederation]
+
+> (...) defines mechanisms to allow different security realms to federate, such that authorized access to resources managed in one realm can be provided to security principals whose identities and attributes are managed in other realms. (...)
+
+[wsfederation]: http://docs.oasis-open.org/wsfed/federation/v1.2/os/ws-federation-1.2-spec-os.html
+
 ## WS-Coordination
 
 ## WS-Transaction
