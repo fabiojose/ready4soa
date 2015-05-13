@@ -42,7 +42,7 @@ Study Roadmap, laboratories, references, guides, tools and examples to get ready
 
 ## SOA
 
-  > Service Oriented Architecture
+Stands for Service Oriented Architecture
 
 ## WS 
 
@@ -56,12 +56,15 @@ Stands for [Web Service] [ws]
 
 ## WS-*
 
-  > Web Service specifications
+Stands for Web Service specifications
 
 ## WS-I
 
-  > [Web Services Interoperability] [wsi]
-[wsi]: http://www.ws-i.org/
+Stands for [Web Services Interoperability Organization] [wsi]
+
+> The Web Services Interoperability Organization (WS-I) is an open industry organization chartered to establish Best Practices for Web services interoperability, for selected groups of Web services standards, across platforms, operating systems and programming languages.
+
+[wsi]: http://www.ws-i.org
 
 ## WS-BPEL
 
