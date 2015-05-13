@@ -168,6 +168,11 @@ Stands for [XSL Transformations] [xslt]
 
 ## SOAP
 
+## SOAP 1.1 vs. SOAP 1.2
+
+[More] [soap11x12]
+[soap11x12]: http://www.w3.org/2003/06/soap11-soap12.html
+
 ## UDDI
 
 ## BPM
