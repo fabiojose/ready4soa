@@ -120,8 +120,11 @@ Stands for [XML Schema Definition Language] [xsd]
 ## XPath
 
 Stands for [XML Path Language] [xpath]
->
-> > [Learn] [xpath_learn]
+
+> XPath 2.0 is an expression language that allows the processing of values conforming to the data model (...) 
+data model provides a tree representation of XML documents (...)
+
+[Learn] [xpath_learn]
 [xpath]: http://www.w3.org/TR/xpath20/
 [xpath_learn]: http://www.w3schools.com/xpath/
 
