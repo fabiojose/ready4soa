@@ -142,15 +142,20 @@ Stands for [XML Query Language] [xquery]
 
 ## XSL
 
-Stands for [eXtensible Stylesheet Language] [xsl]
-[xsl]: http://www.w3.org/Style/XSL/
+Stands for [Extensible Stylesheet Language] [xsl]
+
+> An XSL stylesheet specifies the presentation of a class of XML documents by describing how an instance of the class is transformed into an XML document that uses the formatting vocabulary.
+
+[xsl]: http://www.w3.org/TR/xsl/
 
 ## XSLT 
 
 Stands for [XSL Transformations] [xslt]
->
-> > [Learn] [xslt_learn]
-[xslt]: http://www.w3.org/TR/xslt
+
+> The term stylesheet reflects the fact that one of the important roles of XSLT is to add styling information to an XML source document, by transforming it into a document consisting of XSL formatting objects (see [Extensible Stylesheet Language (XSL)]), or into another presentation-oriented format such as HTML, XHTML, or SVG. However, XSLT is used for a wide range of transformation tasks, not exclusively for formatting and presentation applications.
+
+[Learn] [xslt_learn]
+[xslt]: http://www.w3.org/TR/xslt20/
 [xslt_learn]: http://www.w3schools.com/xsl/
 
 ## WSDL
