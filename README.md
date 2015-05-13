@@ -106,6 +106,8 @@ Stands for [Web Services Policy] [wspolicy]
 
 ## WS-SecurityPolicy
 
+## WS-PolicyAttachment
+
 ## WS-Security <a name="wssecurity_anchor"/>
 
 Stands for [Web Services Security] [wssecurity]
@@ -121,6 +123,12 @@ Stands for [Web Services Security] [wssecurity]
 [WS-Security] (#wssecurity_anchor)
 
 ## WS-Trust
+
+Stands for [Web Services Trust] [wstrust]
+
+> (...)defines extensions that build on [WS-Security] (#wssecurity_anchor) to provide a framework for requesting and issuing security tokens, and to broker trust relationships.
+
+[wstrust]: http://docs.oasis-open.org/ws-sx/ws-trust/200512/ws-trust-1.3-os.html
 
 ## WS-Federation
 
