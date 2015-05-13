@@ -229,5 +229,7 @@ Stands for [XSL Transformations] [xslt]
 
 ## One-Way
 
+## Non-repudiation
+
 ## Governance
 
