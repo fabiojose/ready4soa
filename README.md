@@ -36,6 +36,10 @@ Study Roadmap, laboratories, references, guides, tools and examples to get ready
 
 # Means
 
+### A collection of means at *soaland*
+
+* * * 
+
 ## SOA
 
   > Service Oriented Architecture
