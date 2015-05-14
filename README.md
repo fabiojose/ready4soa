@@ -138,9 +138,27 @@ Stands for [Web Services Federation Language] [wsfederation]
 
 [wsfederation]: http://docs.oasis-open.org/wsfed/federation/v1.2/os/ws-federation-1.2-spec-os.html
 
+## WS-Transaction <a name="wstransaction_anchor"/>
+
+## WS-TX
+
+[WS-Transaction] (#wstransaction_anchor)
+
+## WS-BusinessActivity
+
+Stands for [Web Services Business Activity] [wsbusinessactivity]
+
+> The WS-BusinessActivity specification provides the definition of two Business Activity coordination types: AtomicOutcome or MixedOutcome, that are to be used with the extensible coordination framework described in the WS-Coordination specification.(...)
+
+[wsbusinessactivity]: http://docs.oasis-open.org/ws-tx/wstx-wsba-1.2-spec-os/wstx-wsba-1.2-spec-os.html
+
 ## WS-Coordination
 
-## WS-Transaction
+Stands for [Web Services Coordination] [wscoordination]
+
+> The WS-Coordination specification describes an extensible framework for providing protocols that coordinate the actions of distributed applications.(...)
+
+[wscoordination]: http://docs.oasis-open.org/ws-tx/wstx-wscoor-1.2-spec.html
 
 ## XML
 
