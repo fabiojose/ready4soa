@@ -140,6 +140,12 @@ Stands for [Web Services Federation Language] [wsfederation]
 
 ## WS-Transaction <a name="wstransaction_anchor"/>
 
+Stands for [Web Services Transaction] [wstransaction]
+
+> Defining protocols for coordinating the outcome of distributed application actions
+
+[wstransaction]: https://www.oasis-open.org/committees/ws-tx/
+
 ## WS-TX
 
 [WS-Transaction] (#wstransaction_anchor)
