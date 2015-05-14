@@ -285,9 +285,24 @@ Stands for [Web Services Description Language] [wsdl]
 [wsdl_advanced]: http://www.ibm.com/developerworks/webservices/tutorials/ws-understand-web-services2/ws-understand-web-services2.html
 
 ## One-Way
-## Request/Response
+
+[One-Way Operation] [oneway]
+
+> One-Way operations have no output, just the input, which means no response.
+
+[oneway]: http://www.w3.org/TR/wsdl#_one-way
+
+## Request/Response <a name="requestresponse_anchor"/>
+
+[Request-response Operation] [requestresponse]
+
+> Request-response operations have input, output and faults sometimes.
+
+[requestresponse]: http://www.w3.org/TR/wsdl#_request-response
 
 ## Request/Reply
+
+[Request/Response] (#requestresponse_anchor)
 
 ## SOAP
 
