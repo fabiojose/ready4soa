@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema 
+	targetNamespace="https://github.com/fabiojose/ready4soa/xsd/org/" 
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
+	xmlns:org="https://github.com/fabiojose/ready4soa/xsd/org/">
+	
+    <xsd:complexType name="Country">
+        <xsd:annotation>
+        	<xsd:documentation>Based on ISO 3166 - http://www.iso.org/iso/country_codes.htm</xsd:documentation>
+        </xsd:annotation>
+        
+        <xsd:sequence>
+    		<xsd:element name="numeric-code" type="xsd:int" maxOccurs="1" minOccurs="1"/>
+    		
+    		<xsd:element name="short-name" type="xsd:string" maxOccurs="1" minOccurs="1"/>
+    		
+    		<xsd:element name="alpha-2-code" maxOccurs="1" minOccurs="1">
+    			<xsd:simpleType>
+    				<xsd:restriction base="xsd:string">
+    					<xsd:maxLength value="2"/>
+    				</xsd:restriction>
+    			</xsd:simpleType>
+    		</xsd:element>
+    		
+    		<xsd:element name="alpha-3-code" maxOccurs="1" minOccurs="1">
+    			<xsd:simpleType>
+    				<xsd:restriction base="xsd:string">
+    					<xsd:maxLength value="3"/>
+    				</xsd:restriction>
+    			</xsd:simpleType>
+    		</xsd:element>
+    	</xsd:sequence>
+    </xsd:complexType>
+
+    <xsd:element name="country" type="org:Country"/>
+</xsd:schema>
