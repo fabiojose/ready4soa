@@ -34,6 +34,18 @@ Study Roadmap, laboratories, references, guides, tools and examples to get ready
 
 ### SOA Maturity Level 5: Optimized Business Services
 
+# People
+
+### A collection of roles at *soaland*
+
+* * *
+
+## Solution Architect
+
+## Enterprise Architect
+
+## ¿SOA Architect?
+
 # Meanings
 
 ### A collection of meanings at *soaland*
