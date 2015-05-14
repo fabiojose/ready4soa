@@ -276,10 +276,10 @@ Stands for [Web Services Description Language] [wsdl]
 
 > WSDL is an XML format for describing network services as a set of endpoints operating on messages containing either document-oriented or procedure-oriented information.(...)
 
-[Learn] [wsdl_learn]
+[Introduction] [wsdl_intro]
 
 [wsdl]: http://www.w3.org/TR/wsdl
-[wsdl_learn]: http://www.w3schools.com/webservices/ws_wsdl_intro.asp
+[wsdl_intro]: http://www.w3schools.com/webservices/ws_wsdl_intro.asp
 
 ## One-Way
 ## Request/Response
