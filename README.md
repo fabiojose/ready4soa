@@ -278,8 +278,11 @@ Stands for [Web Services Description Language] [wsdl]
 
 [Introduction] [wsdl_intro]
 
+[Advanced] [wsdl_advanced]
+
 [wsdl]: http://www.w3.org/TR/wsdl
 [wsdl_intro]: http://www.w3schools.com/webservices/ws_wsdl_intro.asp
+[wsdl_advanced]: http://www.ibm.com/developerworks/webservices/tutorials/ws-understand-web-services2/ws-understand-web-services2.html
 
 ## One-Way
 ## Request/Response
