@@ -152,6 +152,14 @@ Stands for [Web Services Coordination] [wscoordination]
 
 [wscoordination]: http://docs.oasis-open.org/ws-tx/wstx-wscoor-1.2-spec.html
 
+## WS-AtomicTransaction
+
+Stands for [Web Services Atomic Transaction] [wsatomictransaction]
+
+> The WS-AtomicTransaction specification provides the definition of the Atomic Transaction coordination type that is to be used with the extensible coordination framework described in WS-Coordination. This specification defines three specific agreement coordination protocols for the Atomic Transaction coordination type: completion, volatile two-phase commit, and durable two-phase commit.(...)
+
+[wsatomictransaction]: http://docs.oasis-open.org/ws-tx/wstx-wsat-1.2-spec-os/wstx-wsat-1.2-spec-os.html
+
 ## WS-BusinessActivity
 
 Stands for [Web Services Business Activity] [wsbusinessactivity]
