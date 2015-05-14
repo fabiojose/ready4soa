@@ -155,6 +155,10 @@ Stands for [Extensible Markup Language] [xml]
 [xml_learn]: http://www.w3schools.com/xml/
 [xml_more]: http://www.w3.org/standards/xml/core.html
 
+## (XML) Well Formed
+
+## (XML) Valid
+
 ## XML Signature
 
 Stands for [XML Signature Syntax and Processing] [xml_signature]
