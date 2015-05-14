@@ -272,6 +272,15 @@ Stands for [XSL Transformations] [xslt]
 
 ## WSDL
 
+Stands for [Web Service Description Language] [wsdl]
+
+> WSDL is an XML format for describing network services as a set of endpoints operating on messages containing either document-oriented or procedure-oriented information.(...)
+
+[Learn] [wsdl_learn]
+
+[wsdl]: http://www.w3.org/TR/wsdl
+[wsdl_learn]: http://www.w3schools.com/webservices/ws_wsdl_intro.asp
+
 ## SOAP
 
 ## SOAP 1.1 vs. SOAP 1.2
@@ -295,7 +304,7 @@ Stands for [XSL Transformations] [xslt]
 
 ## JSON
 
-## JSONP
+## Endpoint
 
 ## Asynchronous transport
 
