@@ -185,6 +185,8 @@ Stands for [Extensible Markup Language] [xml]
 
 ## (XML) Valid
 
+## CDATA
+
 ## XML Signature
 
 Stands for [XML Signature Syntax and Processing] [xml_signature]
