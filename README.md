@@ -321,6 +321,10 @@ Stands for [Web Services Description Language] [wsdl]
 
 ## BAM
 
+## BRMS
+
+## CEP
+
 ## REST
 
 ## RESTful
