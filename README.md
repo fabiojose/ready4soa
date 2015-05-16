@@ -186,6 +186,12 @@ Stands for [Web Services Business Activity] [wsbusinessactivity]
 
 [wsbusinessactivity]: http://docs.oasis-open.org/ws-tx/wstx-wsba-1.2-spec-os/wstx-wsba-1.2-spec-os.html
 
+## WS-ReliableExchange
+
+http://docs.oasis-open.org/ws-rx/
+
+## WS-RX
+
 ## XML
 
 Stands for [Extensible Markup Language] [xml]
@@ -331,6 +337,12 @@ Stands for [Web Services Description Language] [wsdl]
 
 ## JSON
 
+## HTTP
+
+## HTTPS
+
+## SSL
+
 ## Endpoint
 
 ## Asynchronous transport
@@ -340,8 +352,6 @@ Stands for [Web Services Description Language] [wsdl]
 ## Acknowledgement
 
 ## Reliable
-
-
 
 ## Non-repudiation
 
