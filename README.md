@@ -215,6 +215,8 @@ Stands for [Extensible Markup Language] [xml]
 
 Stands for [Character Data] [cdata]
 
+> The term CDATA is used about text data that should not be parsed by the XML parser.
+
 [Learn] [cdata_learn]
 
 [cdata]: http://www.w3.org/TR/REC-xml/#sec-cdata-sect
