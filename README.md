@@ -8,10 +8,12 @@ Study Roadmap, laboratories, references, guides, tools and examples to get ready
 ##### To Study
 1. XML
 2. XML Schema - XSD
-3. WSDL
-4. SOAP
-5. XSL
-6. Java Web Service - JWS
+3. XPath
+4. XQuery
+5. WSDL
+6. SOAP
+7. XSL
+8. Java Web Service - JWS
 
 ##### XML Laboratories
 1. Country
