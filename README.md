@@ -366,11 +366,26 @@ Stands for [Web Services Description Language] [wsdl]
 
 ## Non-repudiation
 
+## VETRO
+
+data-enrichment
+
+http://www.oracle.com/technetwork/articles/jumpstart-for-osb-development-page--084129.html
+
 ## Choreography
 
 http://stackoverflow.com/questions/4127241/orchestration-vs-choreography
 
 ## Orchestration
 
+## Routing
+
+validation, transformation
+
 ## Governance
+
+http://simplicable.com/new/10-soa-design-patterns-every-architect-should-know
+
+http://refcardz.dzone.com/refcardz/soa-patterns
+
 
