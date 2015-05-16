@@ -368,6 +368,8 @@ Stands for [Web Services Description Language] [wsdl]
 
 ## Choreography
 
+http://stackoverflow.com/questions/4127241/orchestration-vs-choreography
+
 ## Orchestration
 
 ## Governance
