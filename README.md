@@ -56,6 +56,10 @@ Study Roadmap, laboratories, references, guides, tools and examples to get ready
 
 Stands for Service Oriented Architecture
 
+## ESB
+
+http://www.mqug.org.uk/downloads/201107/201107%20-%20ESB02%20-%20MessageBrokerSOAExamples.pdf
+
 ## WS 
 
 Stands for [Web Service] [ws]
