@@ -1,13 +1,13 @@
 # ready4soa
 Study Roadmap, laboratories, references, guides, tools and examples to get ready for Service Oriented Architecture
 
-### SOA Maturity Level 1: Initial Services
+## SOA Maturity Level 1: Initial Services
 
-#### Roadmap A
+### Roadmap A
 
-##### Part One
+#### Part One
 
-###### To Study
+##### To Study
 1. XML
 2. XML Schema - XSD
 3. XPath
@@ -17,15 +17,15 @@ Study Roadmap, laboratories, references, guides, tools and examples to get ready
 7. XSL
 8. Java Web Service - JWS
 
-###### XML Laboratories
+##### XML Laboratories
 1. Country
 
-###### XML Schema Laboratories
+##### XML Schema Laboratories
 1. Country
 
-##### Part Two
+#### Part Two
 
-#### Roadmap B
+### Roadmap B
 
 ##### To Study
 1. Enterprise Service Bus - ESB
