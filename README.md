@@ -366,5 +366,9 @@ Stands for [Web Services Description Language] [wsdl]
 
 ## Non-repudiation
 
+## Choreography
+
+## Orchestration
+
 ## Governance
 
