@@ -5,7 +5,9 @@ Study Roadmap, laboratories, references, guides, tools and examples to get ready
 
 #### Roadmap A
 
-##### To Study
+##### Part One
+
+###### To Study
 1. XML
 2. XML Schema - XSD
 3. XPath
@@ -15,11 +17,13 @@ Study Roadmap, laboratories, references, guides, tools and examples to get ready
 7. XSL
 8. Java Web Service - JWS
 
-##### XML Laboratories
+###### XML Laboratories
 1. Country
 
-##### XML Schema Laboratories
+###### XML Schema Laboratories
 1. Country
+
+##### Part Two
 
 #### Roadmap B
 
