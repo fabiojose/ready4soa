@@ -392,4 +392,4 @@ http://simplicable.com/new/10-soa-design-patterns-every-architect-should-know
 
 http://refcardz.dzone.com/refcardz/soa-patterns
 
-
+http://apprenda.com/platform/licensing/
