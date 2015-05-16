@@ -201,7 +201,7 @@ Stands for [Extensible Markup Language] [xml]
 [Learn] [xml_learn]
 
 [More] [xml_more]
-[xml]: http://www.w3.org/XML/
+[xml]: http://www.w3.org/TR/2008/REC-xml-20081126
 [xml_learn]: http://www.w3schools.com/xml/
 [xml_more]: http://www.w3.org/standards/xml/core.html
 
@@ -212,6 +212,13 @@ Stands for [Extensible Markup Language] [xml]
 ## PCDATA
 
 ## CDATA
+
+Stands for [Character Data] [cdata]
+
+[Learn] [cdata_learn]
+
+[cdata]: http://www.w3.org/TR/2008/REC-xml-20081126/#sec-cdata-sect
+[cdata_learn]: http://www.w3schools.com/xml/xml_cdata.asp
 
 ## XML Signature
 
