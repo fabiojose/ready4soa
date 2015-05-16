@@ -209,6 +209,8 @@ Stands for [Extensible Markup Language] [xml]
 
 ## (XML) Valid
 
+## PCDATA
+
 ## CDATA
 
 ## XML Signature
