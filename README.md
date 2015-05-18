@@ -9,13 +9,13 @@ The roadmap is divided in three parts: one, two and three.
 
 * One: Learn XML and related specifications
 
-* Two: Introduction into *wstown* and understand the "what" principle
+* Two: Introduction into *wstown* and understanding the "what" principle
 
 > wstown - Web Services Town - A lot of specifications, technologies, patterns and tools to work with Web Services.
 
 – Fábio J. Moraes
 
-* Three: Implementing Web Services and understand the "how" principle
+* Three: Implementing Web Services and understanding the "how" principle
 
 #### Part One
 
@@ -41,7 +41,7 @@ XML and related specifications.
 
 #### Part Two
 
-Introduction into *wstown* and understand the "what" principle
+Introduction into *wstown* and understanding the "what" principle
 
 ##### To Learn
 
@@ -50,7 +50,7 @@ Introduction into *wstown* and understand the "what" principle
 
 #### Part Three
 
-Implementing Web Services and understand the "how" principle
+Implementing Web Services and understanding the "how" principle
 
 ##### Labs
 
