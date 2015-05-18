@@ -368,6 +368,8 @@ Stands for [Web Services Description Language] [wsdl]
 
 [Request/Response] (#requestresponse_anchor)
 
+## Request/Reaction
+
 ## SOAP
 
 ## SOAP 1.1 vs. SOAP 1.2
@@ -402,6 +404,8 @@ Stands for [Web Services Description Language] [wsdl]
 ## SSL
 
 ## Endpoint
+
+## End-to-End
 
 ## Asynchronous transport
 
