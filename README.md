@@ -91,7 +91,7 @@ Implementing Web Services and understanding the "how" principle
 
 ## SOA
 
-Stands for [Service Oriented Architecture]
+Stands for [Service Oriented Architecture] [soa]
 
 > Service-Oriented Architecture (SOA) is an architectural style that supports service-orientation.
 
