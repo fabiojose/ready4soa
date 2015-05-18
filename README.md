@@ -31,13 +31,11 @@ XML and related specifications.
 
 ##### Labs
 
-###### XML
+1. [XML] [xml_labs] 
+[xml_labs]: xml/org/wellformed
 
-1. Country
-
-###### XSD
-
-1. Country
+2. [XSD] [xsd_labs]
+[xsd_labs]: xml/org
 
 #### Part Two
 
