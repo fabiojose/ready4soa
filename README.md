@@ -3,13 +3,15 @@ Study Roadmap, laboratories, references, guides, tools and examples to get ready
 
 ## SOA Maturity Level 1: Initial Services
 
-### Roadmap A
+### Roadmap
 
-The roadmap a divided in two parts: one and two.
+The roadmap is divided in three parts: one, two and three.
 
-* One: Learn XML and related specifications.
+* One: Learn XML and related specifications
 
-* Two: Introduction into *wstown* (Web Services Town) and learn XSL Transformations (XSLT)
+* Two: Introduction into *wstown* (Web Services Town) and learn the "what" principle
+
+* Three: Implementing Web Services and learn the "how" principle
 
 #### Part One
 
@@ -21,6 +23,7 @@ XML and related specifications.
 2. XSD
 3. XPath
 4. XQuery
+5. XSLT
 
 ##### Labs
 
@@ -34,16 +37,20 @@ XML and related specifications.
 
 #### Part Two
 
-XSLT and the introduction into *wstown*
+Introduction into *wstown* and learn the "what" principle
 
 ##### To Learn
 
-1. XSLT
-2. WSDL
-3. SOAP
-4. Java Web Service - JWS
+1. WSDL
+2. SOAP
 
-### Roadmap B
+#### Part Three
+
+Implementing Web Services and learn the "how" principle
+
+##### Labs
+
+1. java
 
 #### To Study
 
