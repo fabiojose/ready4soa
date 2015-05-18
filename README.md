@@ -243,11 +243,21 @@ Stands for [Web Services Business Activity] [wsbusinessactivity]
 
 [wsbusinessactivity]: http://docs.oasis-open.org/ws-tx/wstx-wsba-1.2-spec-os/wstx-wsba-1.2-spec-os.html
 
-## WS-ReliableExchange
+## WS-ReliableExchange <a name="wsreliableexchange_anchor"/>
 
-http://docs.oasis-open.org/ws-rx/
+Stands for [Web Services Reliable Exchange][wsreliableexchange]
+
+[wsreliableexchange]:http://docs.oasis-open.org/ws-rx/
 
 ## WS-RX
+
+[WS-ReliableExchange] (#wsreliableexchange_anchor)
+
+## WS-ReliableMessaging
+
+Stands for [Web Services Reliable Messaging][wsreliablemessaging]
+
+[wsreliablemessaging]:http://docs.oasis-open.org/ws-rx/wsrm/v1.2/wsrm.html
 
 ## XML
 
