@@ -5,28 +5,43 @@ Study Roadmap, laboratories, references, guides, tools and examples to get ready
 
 ### Roadmap A
 
+The roadmap a divided in two parts: one and two.
+
+* One: Learn XML and related specifications.
+
+* Two: Learn XSL Transformations (XSLT) and introduce into *wstown* (Web Services Town).
+
 #### Part One
 
-##### To Study
+XML and related specifications.
+
+##### To Learn
 
 1. XML
-2. XML Schema - XSD
+2. XSD
 3. XPath
 4. XQuery
-5. WSDL
-6. SOAP
-7. XSL
-8. Java Web Service - JWS
 
-##### XML Laboratories
+##### Labs
+
+###### XML
 
 1. Country
 
-##### XML Schema Laboratories
+###### XSD
 
 1. Country
 
 #### Part Two
+
+XSLT and the introduction into *wstown*
+
+##### To Learn
+
+1. XSLT
+2. WSDL
+3. SOAP
+4. Java Web Service - JWS
 
 ### Roadmap B
 
