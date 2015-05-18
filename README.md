@@ -107,7 +107,10 @@ Stands for [Enterprise Service Bus] [esb]
 
 – David A. Chappell
 
+[More][esb_more]
+
 [esb]: https://books.google.com.br/books/about/Enterprise_Service_Bus.html?id=Uhue3faV2mwC
+[esb_more]: http://www.ibm.com/developerworks/websphere/techjournal/1105_flurry/1105_flurry.html
 
 ## WS 
 
