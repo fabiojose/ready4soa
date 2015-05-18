@@ -52,6 +52,10 @@ Study Roadmap, laboratories, references, guides, tools and examples to get ready
 
 ## ¿SOA Architect?
 
+# Design Pattern
+
+### A collectoin of design patterns at *soaland*
+
 # Meanings
 
 ### A collection of meanings at *soaland*
