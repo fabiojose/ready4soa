@@ -32,8 +32,8 @@ XML and related specifications.
 ##### Labs
 
 1. [XML] [xml_labs] 
-[xml_labs]: xml/org/wellformed
 2. [XSD] [xsd_labs]
+[xml_labs]: xml/org/wellformed
 [xsd_labs]: xsd/org
 
 #### Part Two
