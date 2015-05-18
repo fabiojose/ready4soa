@@ -33,7 +33,6 @@ XML and related specifications.
 
 1. [XML] [xml_labs] 
 [xml_labs]: xml/org/wellformed
-
 2. [XSD] [xsd_labs]
 [xsd_labs]: xsd/org
 
