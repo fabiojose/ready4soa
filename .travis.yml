@@ -4,3 +4,4 @@ jdk:
   - oraclejdk7
 
 script: cd java/ready4soa && mvn clean package
+
