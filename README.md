@@ -9,7 +9,7 @@ The roadmap a divided in two parts: one and two.
 
 * One: Learn XML and related specifications.
 
-* Two: Learn XSL Transformations (XSLT) and introduce into *wstown* (Web Services Town).
+* Two: Introduction into *wstown* (Web Services Town) and learn XSL Transformations (XSLT)
 
 #### Part One
 
