@@ -29,7 +29,7 @@ XML and related specifications.
 4. XQuery
 5. XSLT
 
-##### Labs
+##### ![L](http://www.iconsdb.com/icons/download/black/test-tube-24.png) Labs
 
 1. [XML] [xml_labs] 
 2. [XSD] [xsd_labs]
