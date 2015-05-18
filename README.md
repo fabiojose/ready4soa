@@ -101,7 +101,13 @@ Stands for [Service Oriented Architecture] [soa]
 
 ## ESB
 
-http://www.mqug.org.uk/downloads/201107/201107%20-%20ESB02%20-%20MessageBrokerSOAExamples.pdf
+Stands for [Enterprise Service Bus] [esb]
+
+> An ESB is as standards-base integration platform that combines messaging, web services, data transformation, and intelligent routing to reliably connect and coordinate the interaction of significant numbers of diverse applications across extended enterprises with transactional integrity.
+
+– David A. Chappell
+
+[esb]: https://books.google.com.br/books/about/Enterprise_Service_Bus.html?id=Uhue3faV2mwC
 
 ## WS 
 
