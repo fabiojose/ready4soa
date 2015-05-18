@@ -44,6 +44,7 @@ Introduction into *wstown* and understanding the "what" principle
 
 1. WSDL
 2. SOAP
+3. WS-Security
 
 #### Part Three
 
