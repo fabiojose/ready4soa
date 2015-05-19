@@ -13,7 +13,7 @@ The roadmap is divided in three parts: one, two and three.
 
   > wstown - Web Services Town - A lot of specifications, technologies, patterns and tools to work with Web Services.
 
-– Fábio J. Moraes
+  – Fábio J. Moraes
 
 * Three: Implementing Web Services and understanding the "how" principle
 
