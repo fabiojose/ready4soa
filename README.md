@@ -11,7 +11,7 @@ The roadmap is divided in three parts: one, two and three.
 
 * Two: Introduction into *wstown* and understanding the "what" principle
 
-> wstown - Web Services Town - A lot of specifications, technologies, patterns and tools to work with Web Services.
+  > wstown - Web Services Town - A lot of specifications, technologies, patterns and tools to work with Web Services.
 
 – Fábio J. Moraes
 
