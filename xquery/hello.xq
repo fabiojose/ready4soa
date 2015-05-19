@@ -1,5 +1,5 @@
 xquery version "1.0";
-let $message := "Hello World!"
+let $message := "Hello!"
 return <results>
   <message>{$message}</message>
 </results>
