@@ -1,0 +1,6 @@
+//message
+/root/message[1]/text()
+//message[@id]
+//message[@id = 2]
+/root/message[last()]
+//message[not(@id)]

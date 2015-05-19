@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <message id="1">XPath Hello!</message>
+    <message id="2">Hello World!</message>
+    <message>Hi!</message>
+</root>
