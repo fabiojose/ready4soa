@@ -6,5 +6,5 @@
 
 * cloud9
 
-### To Install
+### To install
 
