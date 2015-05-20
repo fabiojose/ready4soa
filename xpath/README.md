@@ -12,8 +12,7 @@
 
 ### To install
 
-* [saxon (.net)](https://sourceforge.net/projects/saxon/files/Saxon-HE/9.6/SaxonHE9-6-1-1N-setup.exe/download)
-* [saxon (java)](https://sourceforge.net/projects/saxon/files/Saxon-HE/9.6/saxonHE9-6-1-1J.zip/download)
+* [xmlstarlet](http://sourceforge.net/projects/xmlstar/files/)
 
 
 
