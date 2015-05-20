@@ -4,4 +4,4 @@
 
 ### On-line
 
-### To Install
+### To install
