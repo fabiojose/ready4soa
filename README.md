@@ -31,10 +31,14 @@ XML and related specifications.
 
 ##### ![L](http://www.iconsdb.com/icons/download/black/test-tube-24.png) Labs
 
-1. [XML] [xml_labs] 
-2. [XSD] [xsd_labs]
+1. [XML][xml_labs] 
+2. [XSD][xsd_labs]
+3. [XPath][xpath_labs]
+4. [XQuery][xquery_labs]
 [xml_labs]: xml/org/wellformed
 [xsd_labs]: xsd/org
+[xpath_labs]: xpath
+[xquery_labs]: xquery
 
 #### Part Two
 
