@@ -505,6 +505,8 @@ http://www.w3.org/TR/xml-c14n
 
 Stands for Canonical Data Model
 
+http://erwin.com/community/expert-blogs/the-canonical-data-model/
+
 ## Governance
 
 http://simplicable.com/new/10-soa-design-patterns-every-architect-should-know
