@@ -431,6 +431,20 @@ Stands for [Web Services Description Language] [wsdl]
 
 ## CEP
 
+## EDA
+
+## SEDA
+
+## EAI
+
+## EII
+
+## B2B
+
+## A2A
+
+## B2C
+
 ## REST
 
 ## RESTful
@@ -476,6 +490,8 @@ http://stackoverflow.com/questions/4127241/orchestration-vs-choreography
 ## Routing
 
 validation, transformation
+
+## Canonical Model
 
 ## Governance
 
