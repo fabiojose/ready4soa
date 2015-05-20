@@ -1,4 +1,4 @@
-# xsd Laboratories
+# XSD Laboratories
 
 ## Tooling
 
