@@ -10,9 +10,7 @@
 * http://codebeautify.org/Xpath-Tester
 * http://www.freeformatter.com/xpath-tester.html
 
-### To install
+### Command Line Interface - CLI
 
 * [xmlstarlet](http://sourceforge.net/projects/xmlstar/files/)
-
-
-
+* [xmllint (linux)](http://xmlsoft.org/xmllint.html)
