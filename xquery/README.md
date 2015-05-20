@@ -1,4 +1,4 @@
-# xquery
+# XQuery Laboratories
 
 ## Tooling
 
