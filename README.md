@@ -272,9 +272,23 @@ Stands for [Extensible Markup Language] [xml]
 [xml_learn]: http://www.w3schools.com/xml/
 [xml_more]: http://www.w3.org/standards/xml/core.html
 
-## (XML) Well Formed
+## (XML) Well Formed <a name="xmlwellformed_anchor"/>
+
+> An XML document with correct syntax is "Well Formed".
+
+  – w3schools
+
+[More][xmlwellformed_more]
+[xmlwellformed_more]:http://www.w3schools.com/xml/xml_doctypes.asp
 
 ## (XML) Valid
+
+> A "valid" XML document must be [well formed](#xmlwellformed_anchor). In addition it must conform to a document type definition.
+
+  – w3schools
+
+[More][xmlvalid_more]
+[xmlvalid_more]:http://www.w3schools.com/xml/xml_doctypes.asp
 
 ## PCDATA
 
