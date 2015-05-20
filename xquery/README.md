@@ -6,4 +6,4 @@
 
 * cloud9
 
-## Install
+## To install
