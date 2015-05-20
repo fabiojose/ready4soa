@@ -497,6 +497,14 @@ validation, transformation
 
 ## Canonical Model
 
+## Canonical XML
+
+http://www.w3.org/TR/xml-c14n
+
+## CDM
+
+Stands for Canonical Data Model
+
 ## Governance
 
 http://simplicable.com/new/10-soa-design-patterns-every-architect-should-know
