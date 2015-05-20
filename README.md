@@ -497,6 +497,8 @@ validation, transformation
 
 ## Canonical Model
 
+## Canonical Schema
+
 ## Canonical XML
 
 http://www.w3.org/TR/xml-c14n
