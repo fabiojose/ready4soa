@@ -14,9 +14,13 @@
 
 #### Native
 
-##### Windows .net
+##### Windows
 
 * [saxon](https://sourceforge.net/projects/saxon/files/Saxon-HE/9.6/SaxonHE9-6-1-1N-setup.exe/download)
+
+##### Linux
+
+* [xquilla](http://xqilla.sourceforge.net/CommandLine)
 
 #### Java
 
