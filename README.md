@@ -292,6 +292,12 @@ Stands for [Extensible Markup Language] [xml]
 
 ## PCDATA
 
+Stands for [Parsed Character Data][pcdata]
+
+> (...)is a term used about text data that will be parsed by the XML parser. 
+
+[pcdata]:http://www.w3schools.com/xml/xml_cdata.asp
+
 ## CDATA
 
 Stands for [Character Data] [cdata]
