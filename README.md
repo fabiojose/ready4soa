@@ -501,6 +501,8 @@ validation, transformation
 
 http://www.w3.org/TR/xml-c14n
 
+http://www.informit.com/articles/article.aspx?p=31961
+
 ## CDM
 
 Stands for Canonical Data Model
