@@ -443,6 +443,8 @@ Stands for [Web Services Description Language] [wsdl]
 
 ## SSL
 
+## XML Appliance
+
 ## Endpoint
 
 ## End-to-End
@@ -452,6 +454,8 @@ Stands for [Web Services Description Language] [wsdl]
 ## Synchronous transport
 
 ## Acknowledgement
+
+## Ack
 
 ## Reliable
 
