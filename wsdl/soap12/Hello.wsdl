@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wsdl:definitions
+	name = "HelloService"
+	targetNamespace = "https://github.com/fabiojose/ready4soa"
+	xmlns:wsdl      = "http://schemas.xmlsoap.org/wsdl/"
+	xmlns:soap12    = "http://schemas.xmlsoap.org/wsdl/soap12/"
+	xmlns:xsd       = "http://www.w3.org/2001/XMLSchema"
+	xmlns:r4s       = "https://github.com/fabiojose/ready4soa">
+	
+	<wsdl:documentation>
+		WS-I Basic Profile 2.0
+	</wsdl:documentation>	
+	
+	<wsdl:types>
+		<xsd:schema
+			targetNamespace="https://github.com/fabiojose/ready4soa">
+			<xsd:complexType name="HelloRequest">
+				<xsd:sequence>
+					<xsd:element name="name" type="xsd:string"/>
+				</xsd:sequence>
+			</xsd:complexType>
+			
+			<xsd:complexType name="HelloReply">
+				<xsd:sequence>
+					<xsd:element name="greeting" type="xsd:string"/>
+				</xsd:sequence>
+			</xsd:complexType>
+			
+			<xsd:element name="RequestElement" type="r4s:HelloRequest"/>
+			<xsd:element name="ReplyElement" type="r4s:HelloReply"/>
+		</xsd:schema>
+	</wsdl:types>
+	
+	<wsdl:message name="doGreetingRequest">
+		<wsdl:part name="Request" element="r4s:RequestElement"/>
+	</wsdl:message>
+	
+	<wsdl:message name="doGreetingReply">
+		<wsdl:part name="Reply" element="r4s:ReplyElement"/>
+	</wsdl:message>
+	
+	<!-- Request/Reply (Reply) Type -->
+	<wsdl:portType name="HelloPortType">
+		<wsdl:operation name="doGreeting">
+			<wsdl:input message="r4s:doGreetingRequest"/>
+			<wsdl:output message="r4s:doGreetingReply"/>
+		</wsdl:operation>
+	</wsdl:portType>
+	
+	<wsdl:binding name="HelloBinding" type="r4s:HelloPortType">
+		<soap12:binding style="document" transport="http://schemas.xmlsoap.org/soap/http"/>
+		
+		<wsdl:operation name="doGreeting">
+			<soap12:operation soapAction="https://github.com/fabiojose/ready4soa/hello12/doGreeting"/>
+			
+			<wsdl:input>
+				<soap12:body use="literal" parts="Request"/>
+			</wsdl:input>
+			
+			<wsdl:output>
+				<soap12:body use="literal" parts="Reply"/>
+			</wsdl:output>
+		</wsdl:operation>
+	</wsdl:binding>
+	
+	<wsdl:service name="HelloService">
+		<wsdl:port name="HelloPort" binding="r4s:HelloBinding">
+			<soap12:address location="https://ready4soa-fabiojose.rhcloud.com/hello12"/>
+		</wsdl:port>
+	</wsdl:service>
+</wsdl:definitions>
