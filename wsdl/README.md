@@ -4,8 +4,8 @@
 
 ### On-line
 
-* https://getsandbox.com
-* https://www.hurl.it
+* [Sandbox - to mock services](https://getsandbox.com)
+* [Hurl.it - to make http request](https://www.hurl.it)
 
 ### Graphic User Interface - GUI
 
