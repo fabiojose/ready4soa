@@ -9,4 +9,4 @@
 
 ### Graphic User Interface - GUI
 
-* [soapui windows & linux](http://sourceforge.net/projects/soapui/files/soapui/)
+* [soapui (windows & linux)](http://sourceforge.net/projects/soapui/files/soapui/)
