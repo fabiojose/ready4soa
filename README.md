@@ -467,6 +467,8 @@ Stands for [Web Services Description Language] [wsdl]
 
 ## XML Appliance
 
+## Compliance
+
 ## Endpoint
 
 ## End-to-End
