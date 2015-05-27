@@ -4,9 +4,9 @@
 
 ### On-line
 
-* [Sandbox - to mock services](https://getsandbox.com)
-* [Hurl.it - to make http request](https://www.hurl.it)
+* [Sandbox](https://getsandbox.com) - to mock services
+* [Hurl.it](https://www.hurl.it) - to make http request
 
 ### Graphic User Interface - GUI
 
-* [soapui (windows & linux)](http://sourceforge.net/projects/soapui/files/soapui/)
+* [soapui](http://sourceforge.net/projects/soapui/files/soapui/) (windows & linux)
