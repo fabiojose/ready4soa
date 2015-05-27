@@ -15,6 +15,6 @@
 * [xmlstarlet](http://sourceforge.net/projects/xmlstar/files/)
 * [xmllint (linux)](http://xmlsoft.org/xmllint.html)
 
-## Graphic User Interface - GUI
+### Graphic User Interface - GUI
 
 * [basex](http://basex.org/)
